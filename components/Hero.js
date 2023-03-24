@@ -15,7 +15,7 @@ export default function Hero() {
         <a href="https://falsezero.io" className="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium py-3 border-transparent rounded-md text-white bg-gray-900 hover:bg-gray-800">
           Button
         </a>
-        <a href="htts://falsezero.io" className="inline-flex items-center font-semibold text-gray-900 hover:text-gray-800">
+        <a href="https://falsezero.io" className="inline-flex items-center font-semibold text-gray-900 hover:text-gray-800">
           Button
         </a>
       </div>
